@@ -1,0 +1,9 @@
+cybersecurity-portfolio/
+└── Week-2_WebFundamentals/
+    ├─ 01-http-in-detail.md
+    ├─ 02-how-websites-work.md
+    ├─ 03-putting-it-all-together.md
+    └─ screenshots/
+         ├─ http-detail-1.png
+         ├─ how-websites-1.png
+         └─ putting-it-all-together-1.png
