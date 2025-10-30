@@ -34,6 +34,10 @@ Tracking my journey from fundamentals → advanced SOC & Cloud skills.
 - [What is Networking?](Week-1/What-is-Networking.md)
 
 ---
+- Week-2: [HTTP in Detail](Week-2_WebFundamentals/01-http-in-detail.md),
+- [How Websites Work](Week-2_WebFundamentals/02-how-websites-work.md),
+-  [Putting It All Together](Week-2_WebFundamentals/03-putting-it-all-together.md)
+
 
 ## 🛠 Tools & Technologies
 
